@@ -56,8 +56,8 @@ Built using:
 
 ## 📷 Dashboard Previews
 
-![Overview Dashboard](overview_dashboard.png)  
-![Health Outcome Dashboard](health_outcome_dashboard.png)
+![Overview Dashboard](OverviewpageHealthlink.png)  
+![Health Outcome Dashboard](SDOHpageHealthlink.png)
 
 ---
 
